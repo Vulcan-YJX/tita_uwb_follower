@@ -62,6 +62,13 @@
 
 
 
+## 资源
+
+- [模块购买链接](https://item.taobao.com/item.htm?_u=g2090t5ns7c5c5&id=874391395330&pisk=gpwus6jVg7l7mibxM-M5NXAUNg5xyYMQLypKJv3FgqufAQdRVXoUxy2LwkuKKy43-4hFPYe3olZdVJISU9mUWrDL243LoM48ApQ5OYpe-zZNPu3dVJ0EozznOggK824LY7IABOE7VvME-NBOB62gTPUkLvuFYjo-binPc7WU_vMFWwAvLb6idz8RZbOygmujxD8EYyu20c3qYQkU8qlqbcLrLyzEgxoij3uEz0Rq0qiyzpuyaxuq2cvyUvzU0imIu2kEayrqBN_rzJy83wDr9m4ziQlqqb0a44r87-JiNQZjoCRgn7hr7O3DLpymqog3JlvG9VPsyf3_utpoKoo3ofFlSL43YlNEiJYP2PrUP-DSI6ISsSPY6bVczp0YeDcZLjxeLoDmlP2xQO8mcSr8T8akxpo7eRhn5jjedXH4BfParHs_0YoURfwd5LgzYlw_6AXk50V4jxjyLIRNOapI0Me2OBGrcm09g83NA8kb_vjcmC0IamirWijDOBGrcm0OmiAgAboj4VC..&sku_properties=1627207%3A38067136541%3B-3%3A-3&spm=a1z09.2.0.0.1e842e8dSUR8lt)
+- [结构件](https://github.com/Vulcan-YJX/tita_uwb_follower/blob/dev/TITA_UWB_Shell.zip)
+
+
+
 ## 致谢
 
 > [!NOTE]
